@@ -1,0 +1,8 @@
+{
+  "name": "Copy of APLICACION PARA  APPS ",
+  "description": "HOLA  SOY  CREADOR   DE CONTENIDOS ",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
